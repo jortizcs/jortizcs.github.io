@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Professor Jorge Ortiz @RU ECE"
+title                    : "Jorge Ortiz"
 title_separator          : "-"
 name                     : &name "Jorge ortiz, PhD"
 description              : &description "Assistant Professor of Electrical and Computer Engineering at Rutgers University"
