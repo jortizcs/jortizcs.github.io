@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Jorge Ortiz, Assistant Professor of ECE @RU"
+title: "Bio"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
