@@ -1,1 +1,6 @@
+---
+collection: publications
+permalink: /publication/2010-10-01-paper-title-number-1
+---
+
 Mark Nutter, Catherine H. Crawford, C.H., and Jorge Ortiz. [Design of Novel Deep Learning Models for Real-time Human Activity Recognition with Mobile Phones. 2018 International Joint Conference on Neural Networks (IJCNN 2018), 1-8. (https://ieeexplore.ieee.org/document/8489319)
